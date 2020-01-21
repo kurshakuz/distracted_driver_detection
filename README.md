@@ -1,4 +1,4 @@
-# Distracted Driver Posture and Head Position Identification via m-CNNs
+# Distracted Driver Posture and Head Position Identification via m-CNNs. [Paper](https://github.com/kurshakuz/distracted_driver_detection/blob/master/Machine_Learning_Project_Report.pdf) 
 
 This work is initially inspired by the State Farm's Distracted Driver Detection [Competition](https://www.kaggle.com/c/state-farm-distracted-driver-detection/overview) and by the work done by [Eraqi et al.](https://heshameraqi.github.io/distraction_detection)
 
